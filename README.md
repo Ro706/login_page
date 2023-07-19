@@ -10,3 +10,4 @@ This is a simple login page that allows users to enter their username and passwo
 - A sign up button that says "Sign Up"
 
 This login page is designed to be simple, user-friendly, and secure. It provides clear instructions and feedback for the users, and allows them to easily switch between login and sign up modes. It also uses encryption and validation techniques to protect the users' data and prevent unauthorized access.
+`https://ro706.github.io/login_page/`
